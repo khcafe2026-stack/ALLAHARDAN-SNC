@@ -1,0 +1,6 @@
+{
+  "name": "ALLAHARDAN S.N.C",
+  "description": "Fast & Secure Money Transfer, International Remittance, Luggage Storage, and Tourist Assistance in Rome, Italy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
